@@ -1,0 +1,18 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(258,13): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(381,7): warning C4551: 缺少参数列表的函数调用
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(430,9): warning C4476: "printf": 格式说明符中的类型字段字符“)”未知
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(709,9): warning C4476: "printf": 格式说明符中的类型字段字符“)”未知
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(810,77): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(810,77): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(875,7): warning C4551: 缺少参数列表的函数调用
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(986,7): warning C4551: 缺少参数列表的函数调用
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1547,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1553,31): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1573,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1579,31): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1599,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1605,31): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1625,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\m1317\Desktop\ConsoleApplication1\ConsoleApplication1.cpp(1631,32): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\m1317\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
